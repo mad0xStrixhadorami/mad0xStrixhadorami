@@ -4,7 +4,7 @@
 
 # Security Researcher
 
-**Hardware Security · Reverse Engineering · Offensive Security**
+**Hardware Security · Reverse Engineering · Offensive Security · AI-Assisted Engineering**
 
 <br>
 
@@ -18,42 +18,26 @@
 
 </div>
 
-<!--
+
 TryHackMe live badge (enable after replacing YOUR_THM_USERNAME):
 <div align="center">
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Badge" />
+  <a href="https://tryhackme.com/p/mad0xStrixhadorami">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mad0xStrixhadorami.png" alt="TryHackMe Badge" />
   </a>
 </div>
--->
+
 
 ---
 
 ## About
 
-<table>
-<tr>
-<td valign="top" width="58%">
-
-Security researcher focused on the intersection of hardware and software. I work on RF analysis, embedded firmware, and reverse engineering, with a practical approach to vulnerability research and secure design.
+Security researcher and software engineer focused on the intersection of hardware, software, and AI. I work on RF analysis, embedded firmware, and reverse engineering, with a practical approach to vulnerability research and secure design. I use AI tools daily to speed up research, prototyping, and code analysis.
 
 **Currently working on**
 - Sub-GHz protocol analysis
 - ESP32 firmware tooling
 - Reverse engineering practice (x86 / ARM)
-
-</td>
-<td valign="top" width="42%">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mad0xStrixhadorami&layout=compact&hide_border=true&bg_color=0b0f14&title_color=00bea9&text_color=c9d1d9" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mad0xStrixhadorami&layout=compact&hide_border=true&bg_color=ffffff&title_color=00897b&text_color=24292f" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mad0xStrixhadorami&layout=compact&hide_border=true&title_color=00bea9" />
-</picture>
-
-</td>
-</tr>
-</table>
+- AI-assisted workflows for security research and development
 
 ---
 
@@ -63,23 +47,28 @@ Security researcher focused on the intersection of hardware and software. I work
 |---|---|
 | **Hardware Security** | RF / Sub-GHz analysis, ESP32 firmware development, Flipper Zero tooling and scripting |
 | **Reverse Engineering** | Binary analysis, game engine internals, x86 / ARM assembly |
-| **Software Development** | C / C++, Python, secure architecture design |
+| **Software Development** | C / C++, Python, React, secure architecture design |
 | **Offensive Security** | Vulnerability assessment, penetration testing, authorized red-team tooling |
+| **AI & Automation** | Applied use of LLMs for research, code analysis, and development; prompt engineering; AI-assisted tooling |
+| **Cloud & DevOps** | AWS, Azure, Docker, containerized development environments |
 
 ---
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,linux,git,bash&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,react,arduino,linux,git,bash,vscode,docker,aws,azure&theme=dark" alt="Tech stack icons" />
 
 <details>
-<summary><b>Hardware toolkit</b></summary>
+<summary><b>Hardware toolkit & frameworks</b></summary>
 <br>
 
-| Tool | Use |
+| Tool / Framework | Use |
 |---|---|
 | Flipper Zero | Sub-GHz, RFID / NFC research, custom scripting |
 | ESP32 | Firmware development and wireless experiments |
+| Bruce Firmware | Offensive ESP32 firmware for wireless security testing in authorized environments |
+| ESP32 Marauder | Wi-Fi / Bluetooth auditing on ESP32 hardware |
+| Arduino / PlatformIO | Embedded development and firmware builds |
 | Add yours | e.g. SDR, logic analyzer, JTAG / UART adapters |
 
 </details>
@@ -94,10 +83,30 @@ Security researcher focused on the intersection of hardware and software. I work
 
 ---
 
-## Certifications & Profiles
+## Education
 
-- TryHackMe – [your profile link]
-- Add certifications here (only ones you hold)
+**B.Sc. in Software Engineering** – [Institution name], [Year]
+
+---
+
+## Certifications
+
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="certs/cert-1.png" width="260" alt="Certificate 1" /><br>
+<sub><b>Certificate name</b><br>Issuer · Year</sub>
+</td>
+<td align="center" width="33%">
+<img src="certs/cert-2.png" width="260" alt="Certificate 2" /><br>
+<sub><b>Certificate name</b><br>Issuer · Year</sub>
+</td>
+<td align="center" width="33%">
+<img src="certs/cert-3.png" width="260" alt="Certificate 3" /><br>
+<sub><b>Certificate name</b><br>Issuer · Year</sub>
+</td>
+</tr>
+</table>
 
 ---
 
