@@ -84,11 +84,11 @@ Security researcher and software engineer focused on the intersection of hardwar
 
 ## Education
 
-**B.Sc. in Software Engineering** – [Institution name], [Year]
+**B.Sc. in Software Engineering**
 
 ---
 
-## Certifications
+## Completed Training 
 
 <table>
 <tr>
