@@ -1,0 +1,20 @@
+name: Build device frame
+on: workflow_dispatch
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - run: python make_device_frame.py flipperzero-flipper-zero-animations.gif device-frame.gif
+      - run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add device-frame.gif
+          git commit -m "Add device-frame.gif" || echo "no changes"
+          git push
