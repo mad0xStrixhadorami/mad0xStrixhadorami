@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://tryhackme.com/p/mad0xStrixhadorami">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mad0xStrixhadorami.png" alt="TryHackMe Badge" />
+    <img src="thm-badge.png" width="400" alt="TryHackMe profile badge" />
   </a>
 </div>
 
