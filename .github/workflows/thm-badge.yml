@@ -1,0 +1,44 @@
+name: Update TryHackMe badge
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 3 * * *"
+permissions:
+  contents: write
+jobs:
+  badge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: |
+          pip install playwright
+          playwright install --with-deps chromium
+      - name: Screenshot badge
+        run: |
+          python - <<'EOF'
+          import re, base64, urllib.request
+          from playwright.sync_api import sync_playwright
+
+          TOKEN_URL = "https://tryhackme.com/badge/t/8ade1fdf5cf5751f0c3c9bd48eea8cbd990a78ce868aaad8329f1b80d6bbf1a39a048d77d9d8a8904de90cfece19e48f?theme=dark"
+          req = urllib.request.Request(TOKEN_URL, headers={"User-Agent": "Mozilla/5.0"})
+          js = urllib.request.urlopen(req).read().decode()
+          html = base64.b64decode(re.search(r'atob\("([^"]+)"\)', js).group(1)).decode()
+          src = re.search(r'src=["\']([^"\']+)', html).group(1)
+
+          with sync_playwright() as p:
+              b = p.chromium.launch()
+              pg = b.new_page(viewport={"width": 400, "height": 172}, device_scale_factor=2)
+              pg.goto(src, wait_until="networkidle")
+              pg.wait_for_timeout(1500)
+              pg.screenshot(path="thm-badge.png")
+              b.close()
+          EOF
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add thm-badge.png
+          git diff --cached --quiet || (git commit -m "Update TryHackMe badge" && git push)
