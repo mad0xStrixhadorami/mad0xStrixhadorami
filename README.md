@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="flipperzero-flipper-zero-animations.gif" width="360" alt="Flipper Zero" />
+<img src="device-frame.gif" width="460" alt="Handheld security tool animation" />
 
 <br><br>
 
