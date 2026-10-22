@@ -19,7 +19,6 @@
 </div>
 
 
-TryHackMe live badge (enable after replacing YOUR_THM_USERNAME):
 <div align="center">
   <a href="https://tryhackme.com/p/mad0xStrixhadorami">
     <img src="https://tryhackme-badges.s3.amazonaws.com/mad0xStrixhadorami.png" alt="TryHackMe Badge" />
