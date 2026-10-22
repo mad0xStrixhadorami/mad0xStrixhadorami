@@ -1,8 +1,38 @@
 <div align="center">
 
+<pre>
+       _,.-------.,_
+     ,;~'             '~;,
+   ,;                     ;,
+  ;                         ;
+ ,'                         ',
+ ,;                           ;,
+ ; ;      .           .      ; ;
+ | ;   ______       ______   ; |
+ |  `/~"     ~" . "~     "~\'  |
+ |  ~  ,-~~~^~, | ,~^~~~-,  ~  |
+  |   |        }:{        |   |
+  |   l       / | \       !   |
+  .~  (__,.--" .^. "--.,__)  ~.
+  |     ---;' / | \ `;---     |
+   \__.       \/^\/       .__/
+    V| \                 / |V
+     | |T~\___!___!___/~T| |
+     | |`IIII_I_I_I_IIII'| |
+     |  \,III I I I III,/  |
+      \   `~~~~~~~~~~'    /
+        \   .       .   /
+          \.    ^    ./
+            ^~~~^~~~^
+</pre>
+
 # [SYSTEM.ROOT] // TERMINAL_ACCESS_GRANTED
 
 **Security Researcher | Reverse Engineer | Hardware Hacker**
+
+<br>
+
+<img src="https://media1.tenor.com/m/8-l6Y2y2TscAAAAd/flipperzero-flipper-zero-animations.gif" width="400" alt="Flipper Zero Terminal" />
 
 </div>
 
@@ -16,18 +46,11 @@ Energy-Mass Equivalence Formula: $E = mc^2$
 
 Quadratic resolution matrix for bypass calculations:
 
-$$
-\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
-$$
+$$\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$$
 
 Linear constraints evaluating network thresholds:
 
-$$
-\begin{cases}
-x + y = 10 \\
-2x - y = 5
-\end{cases}
-$$
+$$\begin{cases} x + y = 10 \\ 2x - y = 5 \end{cases}$$
 
 ---
 
@@ -35,7 +58,7 @@ $$
 
 <div align="center">
   <a href="https://tryhackme.com/">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mad0xStrixhadorami.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME_HERE.png" alt="TryHackMe Badge" />
   </a>
 </div>
 
