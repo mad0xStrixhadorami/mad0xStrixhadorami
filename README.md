@@ -26,9 +26,9 @@
             ^~~~^~~~^
 </pre>
 
-# [SYSTEM.ROOT] // TERMINAL_ACCESS_GRANTED
+# Hello Friend, i'm just a tech
 
-**Security Researcher | Reverse Engineer | Hardware Hacker**
+**Security Researcher**
 
 <br>
 
