@@ -17,7 +17,7 @@ Energy-Mass Equivalence Formula: $E = mc^2$
 Quadratic resolution matrix for bypass calculations:
 
 $$
-\frac{-b \pm \sqrt{source}}{2a}
+\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
 
 Linear constraints evaluating network thresholds:
@@ -35,7 +35,7 @@ $$
 
 <div align="center">
   <a href="https://tryhackme.com/">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mad0xStrixhadorami.png" alt="TryHackMe Badge" />
   </a>
 </div>
 
