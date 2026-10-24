@@ -93,16 +93,58 @@ Security researcher and software engineer focused on the intersection of hardwar
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="certs/cert-1.png" width="260" alt="Certificate 1" /><br>
-<sub><b>Certificate name</b><br>Issuer · Year</sub>
+<a href="certs/pdf/thm-ai-security.pdf"><img src="certs/thm-ai-security.png" width="260" alt="AI Security Learning Path" /></a><br>
+<sub><b>AI Security Learning Path</b><br>TryHackMe · Jul 2026</sub>
 </td>
 <td align="center" width="33%">
-<img src="certs/cert-2.png" width="260" alt="Certificate 2" /><br>
-<sub><b>Certificate name</b><br>Issuer · Year</sub>
+<a href="certs/pdf/thm-jr-pentester.pdf"><img src="certs/thm-jr-pentester.png" width="260" alt="Jr Penetration Tester Learning Path" /></a><br>
+<sub><b>Jr Penetration Tester Learning Path</b><br>TryHackMe · Jun 2025</sub>
 </td>
 <td align="center" width="33%">
-<img src="certs/cert-3.png" width="260" alt="Certificate 3" /><br>
-<sub><b>Certificate name</b><br>Issuer · Year</sub>
+<a href="certs/pdf/thm-security-engineer.pdf"><img src="certs/thm-security-engineer.png" width="260" alt="Security Engineer Learning Path" /></a><br>
+<sub><b>Security Engineer Learning Path</b><br>TryHackMe · May 2024</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="certs/pdf/hacking-advanced.pdf"><img src="certs/hacking-advanced.png" width="260" alt="Hacking Advanced Certification" /></a><br>
+<sub><b>Hacking Advanced Certification</b><br>Programming Hub · Nov 2023</sub>
+</td>
+<td align="center" width="33%">
+<a href="certs/pdf/campus-il-websec.pdf"><img src="certs/campus-il-websec.png" width="260" alt="WebSec – Identify Vulnerabilities, Build Defenses (24h)" /></a><br>
+<sub><b>WebSec – Identify Vulnerabilities, Build Defenses (24h)</b><br>Campus IL · Sep 2024</sub>
+</td>
+<td align="center" width="33%">
+<a href="certs/pdf/campus-il-networking.pdf"><img src="certs/campus-il-networking.png" width="260" alt="Networked – How the Internet Works (8h)" /></a><br>
+<sub><b>Networked – How the Internet Works (8h)</b><br>Campus IL · Sep 2024</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="certs/pdf/claude-code-101.pdf"><img src="certs/claude-code-101.png" width="260" alt="Claude Code 101" /></a><br>
+<sub><b>Claude Code 101</b><br>Claude Academy · Jul 2026</sub>
+</td>
+<td align="center" width="33%">
+<a href="certs/pdf/claude-101.pdf"><img src="certs/claude-101.png" width="260" alt="Claude 101" /></a><br>
+<sub><b>Claude 101</b><br>Claude Academy · Apr 2026</sub>
+</td>
+<td align="center" width="33%">
+<a href="certs/pdf/claude-code-in-action.pdf"><img src="certs/claude-code-in-action.png" width="260" alt="Claude Code in Action" /></a><br>
+<sub><b>Claude Code in Action</b><br>Claude Academy · Apr 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<a href="certs/pdf/intro-llms.pdf"><img src="certs/intro-llms.png" width="260" alt="Introduction to LLMs" /></a><br>
+<sub><b>Introduction to LLMs</b><br>Course Certificate · Feb 2025</sub>
+</td>
+<td align="center" width="33%">
+<a href="certs/pdf/sql-intermediate.pdf"><img src="certs/sql-intermediate.png" width="260" alt="SQL Intermediate" /></a><br>
+<sub><b>SQL Intermediate</b><br>Course Certificate · Jul 2024</sub>
+</td>
+<td align="center" width="33%">
+<a href="certs/pdf/c-intermediate.pdf"><img src="certs/c-intermediate.png" width="260" alt="C Intermediate" /></a><br>
+<sub><b>C Intermediate</b><br>Course Certificate · May 2024</sub>
 </td>
 </tr>
 </table>
